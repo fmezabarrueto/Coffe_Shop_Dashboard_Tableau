@@ -43,3 +43,9 @@ Productos horneados: 16% ($81K), destacando como acompañamientos clave.
 - Hot Chocolate (Sustainably Grown): 4,553 transacciones.
 - Dark Chocolate Lg: 4,486 transacciones.
 - Cappuccino Lg: 4,447 transacciones.
+
+## Tableau Public
+[LINK DASHBOARD](https://public.tableau.com/views/CoffeeShopSalesDashboard_17316959578210/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![image](https://github.com/user-attachments/assets/45a94bb4-dab7-432b-8c38-b8b6e9b6fcbb)
+
